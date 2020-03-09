@@ -28,5 +28,3 @@
 
 ---
 
-
-### ![1583720914404](C:\Users\Jay\AppData\Roaming\Typora\typora-user-images\1583720914404.png)
